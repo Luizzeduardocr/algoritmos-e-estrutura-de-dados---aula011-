@@ -18,6 +18,10 @@ public class exemploDadosPrimitivos{
         boolean verdadeiro = true; 
         boolean falso = false ;
         
+        //numero pi
+        final float nPi = 3.1415f;
+        
+
         System.out.println(valorByte);
         System.out.println(valorShort);
         System.out.println(valorInt);
@@ -27,6 +31,7 @@ public class exemploDadosPrimitivos{
         System.out.println(caracter);
         System.out.println(verdadeiro);
         System.out.println(falso);
+        System.out.println(nPi);
 
     }
 }
